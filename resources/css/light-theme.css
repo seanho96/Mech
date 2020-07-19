@@ -415,19 +415,19 @@ header {
 
 
 /* ----------------------------------------------- */
-/* MEALS */
+/* KEYBOARDS */
 /* ----------------------------------------------- */
 
-.section-meals {
+.section-keyboards {
   padding: 0;
 }
 
-.meals-showcase {
+.keyboards-showcase {
   list-style: none;
   width: 100%;
 }
 
-.meals-showcase li {
+.keyboards-showcase li {
   display: block;
   float: left;
   width: 25%;
@@ -435,7 +435,7 @@ header {
 
 }
 
-.meal-photo {
+.keyboard-photo {
   width: 100%;
   margin: 0;
   overflow: hidden;
@@ -444,7 +444,7 @@ header {
   
 }
 
-.meal-photo img {
+.keyboard-photo img {
   opacity: 0.7;
   width: 100%;
   height: auto;
@@ -456,7 +456,7 @@ header {
   
 }
 
-.meal-photo img:hover {
+.keyboard-photo img:hover {
   opacity: 1;
   -webkit-transform: scale(1.03);
   -ms-transform: scale(1.03);
@@ -633,7 +633,7 @@ cite img {
   font-weight: 300;
 }
 
-.plan-price-meal {
+.plan-price-keyboard {
   font-size: 80%;
 }
 
